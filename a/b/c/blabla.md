@@ -8,4 +8,7 @@ qdfssdfsdq
 
 ## clone to local on 3.6.2025
 
+
 ## exercise edit 10:18am
+
+deal with merge conflicts step 9
